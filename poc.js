@@ -1,1 +1,1 @@
-alert(0)
+console.log("--> THE SCRIPT ACTUALLY EXECUTED <--");
